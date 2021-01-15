@@ -1,0 +1,3 @@
+"pistol_mk2", "snspistol_mk2", "revolver_mk2", "smg_mk2", "pumpshotgun_mk2",
+"assaultrifle_mk2", "carbinerifle_mk2","specialcarbine_mk2", "bullpuprifle_mk2",
+"combatmg_mk2", "heavysniper_mk2", "marksmanrifle_mk2"
