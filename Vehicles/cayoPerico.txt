@@ -1,0 +1,4 @@
+"alkonost", "annihilator2", "avisa", "brioso2", "dinghy5", "italirsx",
+"kosatka", "longfin", "manchez2", "patrolboat", "seasparrow2", "seasparrow3",
+"slamtruck", "squaddie", "toreador", "verus", "vetir", "veto", "veto2",
+"winky", "weevil"
