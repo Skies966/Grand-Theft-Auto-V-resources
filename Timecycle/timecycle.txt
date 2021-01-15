@@ -1,4 +1,4 @@
-"DEFAULT", "AirRaceBoost01", "AirRaceBoost02", "AmbientPUSH", "AP1_01_B_IntRefRange", "AP1_01_C_NoFog",
+"AirRaceBoost01", "AirRaceBoost02", "AmbientPUSH", "AP1_01_B_IntRefRange", "AP1_01_C_NoFog",
 "ArenaEMP", "ArenaEMP_Blend", "ArenaWheelPurple01", "ArenaWheelPurple02", "Bank_HLWD", "Barry1_Stoned",
 "BarryFadeOut", "baseTONEMAPPING", "BeastIntro01", "BeastIntro02", "BeastLaunch01", "BeastLaunch02",
 "BikerFilter", "BikerForm01", "BikerFormFlash", "Bikers", "BikersSPLASH", "blackNwhite", "BlackOut",
