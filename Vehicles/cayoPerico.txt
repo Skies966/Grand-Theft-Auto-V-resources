@@ -1,4 +1,4 @@
-"alkonost", "annihilator2", "avisa", "brioso2", "dinghy5", "italirsx",
-"kosatka", "longfin", "manchez2", "patrolboat", "seasparrow2", "seasparrow3",
-"slamtruck", "squaddie", "toreador", "verus", "vetir", "veto", "veto2",
-"winky", "weevil"
+			"ALKONOST", "ANNIHILATOR2", "AVISA", "BRIOSO2", "DINGHY5", "ITALIRSX",
+			"KOSATKA", "LONGFIN", "MANCHEZ2", "PATROLBOAT", "SEASPARROW2", "SEASPARROW3",
+			"SLAMTRUCK", "SQUADDIE", "TOREADOR", "VERUS", "VETIR", "VETO", "VETO2",
+			"WINKY", "WEEVIL"
